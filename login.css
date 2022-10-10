@@ -1,0 +1,18 @@
+.imagem {
+    display: inline-block;
+}
+
+.inputLogin {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.areaLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
